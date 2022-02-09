@@ -14,10 +14,12 @@ author:
 name = User ; No Spaces with name.
 
 # Settings.ini Template
-[disc] 
+[disc]
 type = 2
-[game] 
+
+[game]
 installs = 0
 countrylock = US
-[author] 
+
+[author]
 name = User1
