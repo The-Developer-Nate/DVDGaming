@@ -18,7 +18,7 @@ name = User ; No Spaces with name.
 type = 2
 
 [game] 
-installs = 0 
+installs = 0 \n
 countrylock = US
 
 [author] 
