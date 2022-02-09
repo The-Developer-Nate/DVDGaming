@@ -13,13 +13,3 @@ countrylock = US ; if no country code is set then your cd will be unusable.
 author:
 name = User ; No Spaces with name.
 
-# Settings.ini Template
-[disc]
-type = 2
-
-[game]
-installs = 0
-countrylock = US
-
-[author]
-name = User1
